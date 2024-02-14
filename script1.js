@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', function() {
-    const buttonTextArray = ['No?', 'Seguro?', 'Seguro seguro?', 'PI', ';-; pq insistes que no..', 'No me hagas esto ;n;', 'Voy a pipipear', 'Mi corazoncito ;n;', 'PIIIIIII', 'PIPIPIPIPIPIPIPIPIPIPI', 'PIPIPIPIPIPIPIPIPIPIPIPIPIPIPI', 'Reconcideralo, vamos denuevo', 'No'];
+    const buttonTextArray = ['No?', '100% sure?', 'Completely?', 'Padmasini please', 'Last chance', 'Hit yes', 'please', 'PLEASE', 'Tayavu ceytu', 'ur the worst', 'I never should have made this website', 'HIT YES', 'No'];
     const dynamicButton = document.getElementById('dynamicButton');
     const yesButton = document.getElementById('yesButton');
     let currentIndex = 0;
